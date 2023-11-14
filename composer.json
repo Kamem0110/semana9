@@ -1,0 +1,16 @@
+{
+    "name": "usuario/php",
+    "description": "Semana-9",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kamem0110",
+            "email": "pedro_giusti@outlook.com"
+        }
+    ],
+    "require": {}
+}
